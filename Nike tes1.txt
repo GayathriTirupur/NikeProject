@@ -7,5 +7,11 @@ public void TC2(){
 //this is the nike second test cas;
 }
 
+public void TC4(){
+//this is the nike four;
+}
+
+
 puvlic void tc3(){
 //this is nike scond commit};
+
